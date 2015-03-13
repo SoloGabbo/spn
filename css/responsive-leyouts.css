@@ -557,6 +557,8 @@ ul.post_meta_links_small {
 #trueHeader .logo {
 	width: 100%;
 	margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 	text-align: center;
 }
 
@@ -1172,6 +1174,8 @@ ul.adsbanner-list {
 #trueHeader .logo {
 	width: 100%;
 	margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 	text-align: center;
 }
 
