@@ -26,11 +26,12 @@ body {
 }
 
 body, input, textarea {
-	font: 14px 'Open Sans', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	line-height: 23px;
 	color: #727272;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
 }
 
 /* Headings */
